@@ -13,3 +13,5 @@ npm install request
 ```
 node app.js [city name]
 ```
+
+[demoTerminal.gif]
