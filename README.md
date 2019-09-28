@@ -10,6 +10,6 @@ npm install request
 
 ##Example usage
 
-'''
+```
 node app.js [city name]
-'''
+```
