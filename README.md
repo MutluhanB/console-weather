@@ -8,7 +8,7 @@ go to directory and run
 npm install request
 ```
 
-##Example usage
+## Example usage
 
 ```
 node app.js [city name]
